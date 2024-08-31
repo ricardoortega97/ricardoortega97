@@ -1,6 +1,6 @@
 Hey Hey!
 
-I'm Ricardo from Georgia,Usa, and I am currently attending at GSU learning about app dev. I have a strong passion learning langauges such as Java, Swift, and Python and contiue to further hone my skills.  
+I'm Ricardo from Georgia, USA, and I am currently attending GSU and learning about app dev. I am passionate about learning languages such as Java, Swift, and Python and continue to hone my skills further.  
 
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoortega97&hide_progress=true)
